@@ -5,8 +5,7 @@
 ### ⚡ I'm a Software Developer (Cali, 🇨🇴) 
 
 - 🔭 I’m currently focusing on Java Development
-- :man_technologist: Java development using **Hibernate, Gradle, Spring, Struts, Flyway ...**
-- :computer: Backend development using **Node.js, express, PHP, TypeORM**
+- :computer: Java development using **Hibernate, Gradle, Spring, Struts, Flyway ...**
 - 🌱 I’m constantly learning new languages and technologies.
 - 🤝 I like meetups
 
