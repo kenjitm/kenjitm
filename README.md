@@ -6,7 +6,6 @@
 - 🔭 I’m currently focusing on Java Development
 - :computer: Java development using **Hibernate, Gradle, Spring, Struts, Flyway ...**
 - 🌱 I’m constantly learning new languages and technologies.
-- 🤝 I like meetups
 
 
 <!--
