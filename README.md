@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Github Activity <img src="https://github.com/haruiz/haruiz/blob/main/assets/icons/github.svg"></h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenjitm)](https://github.com/ryo-ma/github-profile-trophy)
