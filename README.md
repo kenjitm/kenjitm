@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 -->
 
 
-## Github Activity <img src="https://github.com/haruiz/haruiz/blob/main/assets/icons/github.svg" width="30px"></h2>
+## <img src="https://github.com/haruiz/haruiz/blob/main/assets/icons/github.svg" width="30px"></h2> Github Activity 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kenjitm)](https://github.com/ryo-ma/github-profile-trophy)
