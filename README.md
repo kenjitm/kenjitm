@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 ## 🏆 Certifications</h2>
 - <a href="https://www.credly.com/users/kenjitm">Credly</a>
  
+## :fire: My Stats</h2> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kenjitm&theme=dark&background=000000)](https://git.io/streak-stats)
